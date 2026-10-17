@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <rect width="1200" height="360" rx="28" fill="#0c121d"/>
+  <circle cx="1050" cy="60" r="220" fill="#172131"/>
+  <rect x="64" y="88" width="180" height="180" rx="44" fill="#172131"/>
+  <g stroke="#4adeb2" stroke-width="12" stroke-linecap="round">
+    <path d="M113 151v58M141 128v104M169 156v48M197 140v80"/>
+  </g>
+  <text x="292" y="145" fill="#4adeb2" font-family="sans-serif" font-size="18" letter-spacing="4">ANDROID VOICE PRESET CONTROLLER</text>
+  <text x="288" y="216" fill="#ebf1fa" font-family="sans-serif" font-size="68" font-weight="700">VoxPanel</text>
+  <text x="292" y="263" fill="#a0b0c5" font-family="sans-serif" font-size="24">Ganti karakter suara, tetap di permainan.</text>
+  <g fill="#4adeb2" opacity="0.7">
+    <rect x="991" y="128" width="10" height="104" rx="5"/>
+    <rect x="1015" y="152" width="10" height="56" rx="5"/>
+    <rect x="1039" y="108" width="10" height="144" rx="5"/>
+    <rect x="1063" y="140" width="10" height="80" rx="5"/>
+    <rect x="1087" y="156" width="10" height="48" rx="5"/>
+  </g>
+</svg>
